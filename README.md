@@ -7,6 +7,8 @@ check it out](http://learnenough.com/git-tutorial), and be sure to [join
 the email list](http://learnenough.com/#email_list) and [follow @learnenough
 ](http://twitter.com/learnenough) on Twitter.
 
+I'm just going to do something simple here to test Git Push.
+
 After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
